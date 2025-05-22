@@ -10,7 +10,7 @@ This project demonstrates the implementation of the K-Means clustering algorithm
 ```
 .
 ├── kmeans_clustering.ipynb     # Jupyter Notebook containing both parts of the project
-├── dataset.csv                 # Dataset used for clustering (replace with actual filename)
+├── Dataset.xlsx                 # Dataset used for clustering (replace with actual filename)
 ├── cluster_plot.png            # Screenshot of the cluster visualization
 ├── README.md                   # Project documentation
 ```
