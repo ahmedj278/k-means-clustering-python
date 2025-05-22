@@ -18,7 +18,7 @@ This project demonstrates the implementation of the K-Means clustering algorithm
 ## Getting Started
 
 ### Prerequisites
-To run this project, you need Python 3.x and the following Python libraries:
+To run this project, you need Python 3.x and the following Python libraries :
 
 - numpy
 - pandas
